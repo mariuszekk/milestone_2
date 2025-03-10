@@ -1,0 +1,47 @@
+#MILESTONE 1
+
+### find Users by countOfOwnedCars
+POST /users
+Host: localhost:8082
+Content-Type: application/json
+
+
+{
+  "countOfOwnedCars": 1
+
+}
+
+### find Users by fName
+POST /users
+Host: localhost:8082
+Content-Type: application/json
+
+{
+    "fName": "Fit"
+}
+
+
+### find Users by lName
+POST /users
+Host: localhost:8082
+Content-Type: application/json
+
+{
+    "lName": "Kennedy"
+}
+
+### update User and find users by exact age
+POST /users/18
+Host: localhost:8082
+Content-Type: application/json
+
+
+{
+  "countOfOwnedCars": 13,
+  "age": "23"
+}
+
+### find users based on exact age
+GET /users?age=20 HTTP/1.1
+Host: localhost:8082
+

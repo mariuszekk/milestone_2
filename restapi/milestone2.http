@@ -1,0 +1,6 @@
+#MILESTONE 2
+
+### sync contacts with hubspot
+GET /hubspot/contacts/sync HTTP/1.1
+Host: localhost:8082
+

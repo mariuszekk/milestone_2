@@ -1,0 +1,122 @@
+[
+  {
+    "fName": "John Fitzgerald Kennedy",
+    "lName": "Kennedy",
+    "dateOfBirth": "2003-07-15",
+    "countOfOwnedCars": 2
+  },
+  {
+    "fName": "Jane Abigail Doe",
+    "lName": "Doe",
+    "dateOfBirth": "2001-11-28",
+    "countOfOwnedCars": 1
+  },
+  {
+    "fName": "Robert Michael Smith",
+    "lName": "Smith",
+    "dateOfBirth": "2004-05-03",
+    "countOfOwnedCars": 0
+  },
+  {
+    "fName": "Emily Elizabeth Johnson",
+    "lName": "Johnson",
+    "dateOfBirth": "2002-09-19",
+    "countOfOwnedCars": 3
+  },
+  {
+    "fName": "Michael David Williams",
+    "lName": "Williams",
+    "dateOfBirth": "2005-01-02",
+    "countOfOwnedCars": 1
+  },
+  {
+    "fName": "Jessica Ashley Brown",
+    "lName": "Brown",
+    "dateOfBirth": "2001-03-17",
+    "countOfOwnedCars": 2
+  },
+  {
+    "fName": "David Christopher Jones",
+    "lName": "Jones",
+    "dateOfBirth": "2003-12-24",
+    "countOfOwnedCars": 0
+  },
+  {
+    "fName": "Ashley Sarah Garcia",
+    "lName": "Garcia",
+    "dateOfBirth": "2002-06-09",
+    "countOfOwnedCars": 1
+  },
+  {
+    "fName": "Christopher Matthew Miller",
+    "lName": "Miller",
+    "dateOfBirth": "2004-04-21",
+    "countOfOwnedCars": 2
+  },
+  {
+    "fName": "Sarah Amanda Davis",
+    "lName": "Davis",
+    "dateOfBirth": "2001-10-04",
+    "countOfOwnedCars": 1
+  },
+  {
+    "fName": "Benjamin Daniel Rodriguez",
+    "lName": "Rodriguez",
+    "dateOfBirth": "2003-02-17",
+    "countOfOwnedCars": 0
+  },
+  {
+    "fName": "Amelia Charlotte Wilson",
+    "lName": "Wilson",
+    "dateOfBirth": "2002-08-30",
+    "countOfOwnedCars": 3
+  },
+  {
+    "fName": "Daniel Benjamin Martinez",
+    "lName": "Martinez",
+    "dateOfBirth": "2004-07-06",
+    "countOfOwnedCars": 1
+  },
+  {
+    "fName": "Harper Amelia Anderson",
+    "lName": "Anderson",
+    "dateOfBirth": "2001-03-12",
+    "countOfOwnedCars": 2
+  },
+  {
+    "fName": "Michael Daniel Taylor",
+    "lName": "Taylor",
+    "dateOfBirth": "2005-11-25",
+    "countOfOwnedCars": 0
+  },
+  {
+    "fName": "Abigail Harper Thomas",
+    "lName": "Thomas",
+    "dateOfBirth": "2002-05-08",
+    "countOfOwnedCars": 1
+  },
+  {
+    "fName": "Elijah Michael Hernandez",
+    "lName": "Hernandez",
+    "dateOfBirth": "2004-01-19",
+    "countOfOwnedCars": 2
+  },
+  {
+    "fName": "Sofia Abigail Moore",
+    "lName": "Moore",
+    "dateOfBirth": "2001-09-02",
+    "countOfOwnedCars": 1
+  },
+  {
+    "fName": "Jackson Elijah Martin",
+    "lName": "Martin",
+    "dateOfBirth": "2005-06-16",
+    "countOfOwnedCars": 0
+  },
+  {
+    "fName": "Lily Sofia Jackson",
+    "lName": "Jackson",
+    "dateOfBirth": "2003-12-29",
+    "countOfOwnedCars": 3
+  }
+]
